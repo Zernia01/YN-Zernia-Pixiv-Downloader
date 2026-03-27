@@ -1,0 +1,18 @@
+{
+  "refresh_token": "",
+  "download_dir": "downloads",
+  "archive_file": "config/archive.json",
+  "sleep_request": "1.0-2.0",
+  "write_metadata": false,
+  "ugoira_format": "gif",
+  "auto_clipboard_to_targets": false,
+  "allow_duplicate_downloads": false,
+  "parallel_downloads": 10,
+  "profile_page_size": 48,
+  "language": "ko",
+  "ffmpeg_path": "ffmpeg",
+  "artist_folder_format": "{user[name]} (@{user[account]}) [{user[id]}]",
+  "multi_image_folder_format": "{title} [{id}]",
+  "single_image_filename_format": "{title} ({id}).{extension}",
+  "multi_image_filename_format": "{id}_{num:>02}.{extension}"
+}
