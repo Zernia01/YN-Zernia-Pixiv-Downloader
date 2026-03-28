@@ -55,6 +55,8 @@
   "label_targets_view_targets": "URL / ID / User Works Page",
   "label_targets_view_archive": "Downloaded Pixiv Links",
   "label_targets_select_view": "Click View Links or View Archive.",
+  "label_targets_count": "Links",
+  "label_archive_count": "Archive",
   "label_auto_clipboard_hint": "Copied Pixiv work URLs are auto-added to config/list.json",
   "label_auto_clipboard_target": "Auto-appending to {filename}",
   "placeholder_refresh_token": "Enter refresh-token",

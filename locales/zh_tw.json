@@ -55,6 +55,8 @@
   "label_targets_view_targets": "URL / ID / 使用者作品頁面",
   "label_targets_view_archive": "已下載的 Pixiv 連結",
   "label_targets_select_view": "請點擊「查看地址」或「查看封存」。",
+  "label_targets_count": "地址",
+  "label_archive_count": "封存",
   "label_auto_clipboard_hint": "複製的 Pixiv 作品 URL 會自動加入 config/list.json",
   "label_auto_clipboard_target": "正在自動加入 {filename}",
   "placeholder_refresh_token": "輸入 refresh-token",

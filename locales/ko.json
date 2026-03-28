@@ -55,6 +55,8 @@
   "label_targets_view_targets": "URL / ID / 사용자 작품 페이지",
   "label_targets_view_archive": "다운로드된 Pixiv 링크",
   "label_targets_select_view": "주소 보기 또는 아카이브 기록 보기를 눌러주세요.",
+  "label_targets_count": "주소",
+  "label_archive_count": "아카이브",
   "label_auto_clipboard_hint": "복사한 Pixiv 작품 URL을 config/list.json에 자동 추가",
   "label_auto_clipboard_target": "{filename}에 자동 추가 중",
   "placeholder_refresh_token": "refresh-token 입력",

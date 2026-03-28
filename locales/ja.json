@@ -55,6 +55,8 @@
   "label_targets_view_targets": "URL / ID / ユーザー作品ページ",
   "label_targets_view_archive": "ダウンロード済みPixivリンク",
   "label_targets_select_view": "アドレス表示またはアーカイブ表示を押してください。",
+  "label_targets_count": "リンク",
+  "label_archive_count": "アーカイブ",
   "label_auto_clipboard_hint": "コピーしたPixiv作品URLを config/list.json に自動追加",
   "label_auto_clipboard_target": "{filename} に自動追加中",
   "placeholder_refresh_token": "refresh-token を入力",
