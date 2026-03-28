@@ -36,3 +36,44 @@ YN ZERNIA PIXIV 다운로더 3.0을 사용해 주셔서 감사합니다. 이 프
 다운로드가 정상적으로 진행되지 않거나 실패하는 경우, 아래의 원인일 수 있으니 확인해 주세요.
 * 픽시브 서버의 일시적인 **과부하** 문제
 * 삭제되었거나 접근할 수 없는 **오래된 페이지**를 다운로드하려고 시도한 경우
+
+#EN
+
+# YN ZERNIA PIXIV Downloader 3.0
+
+Thank you for using YN ZERNIA PIXIV Downloader 3.0. Below is a guide to its main features, usage, and precautions.
+
+## ⚙️ 1. Features
+
+* **Token Authentication**
+  * Open the authentication window and follow the instructions to register your Pixiv token.
+  * ⚠️ **Note:** Once registered, the token is saved in the `config` file. To protect your personal information, please do not share or distribute the configuration file to others.
+
+* **FFmpeg (Animation/Ugoira Support)**
+  * Required for properly saving animated images (Ugoira).
+  * Upon first use, it can be installed automatically via `winget`, or you can download and install FFmpeg manually.
+
+* **Profile Page Settings**
+  * Sets the number of artworks to load per page when downloading by page.
+  * We strongly recommend setting this to **48** for optimal stability.
+
+* **Supported Languages**
+  * The application supports the following languages: Korean, Japanese, Chinese (Simplified/Traditional), English, and Korean Mixed Script (국한문혼용).
+
+---
+
+## 🚀 2. Usage
+
+* **Auto Pixiv Copy**
+  * If set to **ON**, simply copying a Pixiv artwork URL (`Ctrl + C`) will automatically trigger the download.
+
+* **Duplicate Download Prevention**
+  * If the duplicate download setting is turned **OFF**, the program will check your local archive history and automatically skip URLs that have already been downloaded.
+
+---
+
+## ⚠️ 3. Precautions / Notice
+
+If a download fails or does not proceed, it may be due to one of the following reasons:
+* Temporary **overload** on Pixiv's servers.
+* Attempting to download an **outdated or deleted page** that is no longer accessible.
