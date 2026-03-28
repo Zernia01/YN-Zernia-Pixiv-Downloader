@@ -23,6 +23,7 @@
   "button_open_downloads": "다운로드 폴더",
   "button_clear_log": "로그 지우기",
   "button_readme": "README",
+  "button_support": "후원하기",
   "button_download_ffmpeg": "FFmpeg 다운",
   "button_install_ffmpeg": "winget 설치",
   "button_view_targets": "주소 보기",

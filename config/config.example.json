@@ -8,7 +8,7 @@
   "ugoira_format": "gif",
   "auto_clipboard_to_targets": false,
   "allow_duplicate_downloads": false,
-  "profile_page_size": 32,
+  "profile_page_size": 48,
   "language": "ko",
   "ffmpeg_path": "ffmpeg",
   "artist_folder_format": "{user[name]} (@{user[account]}) [{user[id]}]",

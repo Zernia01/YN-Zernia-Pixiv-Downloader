@@ -23,6 +23,7 @@
   "button_open_downloads": "打开下载文件夹",
   "button_clear_log": "清空日志",
   "button_readme": "README",
+  "button_support": "支持一下",
   "button_download_ffmpeg": "下载 FFmpeg",
   "button_install_ffmpeg": "winget 安装",
   "button_view_targets": "查看地址",

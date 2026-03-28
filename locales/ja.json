@@ -23,6 +23,7 @@
   "button_open_downloads": "ダウンロードフォルダ",
   "button_clear_log": "ログを消去",
   "button_readme": "README",
+  "button_support": "支援する",
   "button_download_ffmpeg": "FFmpeg取得",
   "button_install_ffmpeg": "wingetで導入",
   "button_view_targets": "アドレス表示",

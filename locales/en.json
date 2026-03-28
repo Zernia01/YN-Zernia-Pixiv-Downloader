@@ -23,6 +23,7 @@
   "button_open_downloads": "Open Downloads",
   "button_clear_log": "Clear Log",
   "button_readme": "README",
+  "button_support": "Support",
   "button_download_ffmpeg": "FFmpeg Download",
   "button_install_ffmpeg": "Install via winget",
   "button_view_targets": "View Links",
