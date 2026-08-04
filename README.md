@@ -1,6 +1,6 @@
-# YN ZERNIA PIXIV Downloader 4.0
+# YN ZERNIA PIXIV Downloader 5.0
 
-YN ZERNIA PIXIV 다운로더 4.0을 사용해 주셔서 감사합니다. 이 프로그램의 주요 기능과 사용법, 주의사항을 안내합니다.
+YN ZERNIA PIXIV 다운로더 5.0을 사용해 주셔서 감사합니다. 이 프로그램의 주요 기능과 사용법, 주의사항을 안내합니다.
 
 ## ⚙️ 1. 기능 (Features)
 
@@ -41,9 +41,9 @@ YN ZERNIA PIXIV 다운로더 4.0을 사용해 주셔서 감사합니다. 이 프
 
 #EN
 
-# YN ZERNIA PIXIV Downloader 4.0
+# YN ZERNIA PIXIV Downloader 5.0
 
-Thank you for using YN ZERNIA PIXIV Downloader 4.0. Below is a guide to its main features, usage, and precautions.
+Thank you for using YN ZERNIA PIXIV Downloader 5.0. Below is a guide to its main features, usage, and precautions.
 
 ## ⚙️ 1. Features
 
