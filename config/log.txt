@@ -1,157 +1,37 @@
+[update] 새 버전을 확인하고 있습니다.
+현재 최신 버전입니다. (6.1.0)
+[update] 새 버전을 확인하고 있습니다.
+현재 최신 버전입니다. (6.1.0)
+[native] Pixiv PKCE 로그인 페이지를 열었습니다.
+[native] 로그인 후 callback URL 전체나 code 값을 복사하면 refresh_token으로 자동 교환합니다.
+[native] Pixiv PKCE 로그인 페이지를 열었습니다.
+[native] 로그인 후 callback URL 전체나 code 값을 복사하면 refresh_token으로 자동 교환합니다.
 설정을 저장했습니다.
-중복다운을 허용합니다.
+[native] Pixiv login completed. The refresh token was imported automatically.
+[native] Imported Pixiv refresh token: 9bWt...HmKg
 설정을 저장했습니다.
-중복다운을 막고 archive.json 기준으로 스킵합니다.
+설정을 저장했습니다.
+설정을 저장했습니다.
+목록에 추가했습니다.
+주소 목록을 전체 삭제했습니다.
 목록에 추가했습니다.
 설정을 저장했습니다.
 
 [native] Starting Pixiv single-artwork download batch.
 [native] Current native scope: single-page, multi-page, ugoira, and user/category Pixiv targets.
-[error] No Pixiv refresh token is configured.
+[native] Parallel download workers: 5 (allowed range: 2-5).
+[error] No valid Pixiv targets were found.
 [native] No valid Pixiv targets were found.
 [native] Finished. total=0 success=0 failed=0
-[native] Saved detailed log: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\config/log.txt
+[native] Saved detailed log: C:\Users\inso0\Downloads\YN-Zernia-Pixiv-Downloader-main\config/log.txt
+이미 목록에 있는 주소입니다.
+선택한 항목을 삭제했습니다.
+목록에 추가했습니다.
 설정을 저장했습니다.
 
 [native] Starting Pixiv single-artwork download batch.
 [native] Current native scope: single-page, multi-page, ugoira, and user/category Pixiv targets.
-[error] No Pixiv refresh token is configured.
+[native] Parallel download workers: 5 (allowed range: 2-5).
+[error] No valid Pixiv targets were found.
 [native] No valid Pixiv targets were found.
 [native] Finished. total=0 success=0 failed=0
-[native] Saved detailed log: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\config/log.txt
-[native] FFmpeg winget 설치 창을 열었습니다.
-[native] Pixiv PKCE 로그인 페이지를 열었습니다.
-[native] 로그인 후 callback URL 전체나 code 값을 복사하면 refresh_token으로 자동 교환합니다.
-[error] Pixiv auth code exchange failed: invalid_grant
-설정을 저장했습니다.
-설정을 저장했습니다.
-
-[native] Starting Pixiv single-artwork download batch.
-[native] Current native scope: single-page, multi-page, ugoira, and user/category Pixiv targets.
-[error] Pixiv token refresh failed.
-[native] No valid Pixiv targets were found.
-[native] Finished. total=0 success=0 failed=0
-[native] Saved detailed log: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\config/log.txt
-[error] Pixiv auth code exchange failed: invalid_grant
-[native] Pixiv PKCE 로그인 페이지를 열었습니다.
-[native] 로그인 후 callback URL 전체나 code 값을 복사하면 refresh_token으로 자동 교환합니다.
-[native] Pixiv login completed. The refresh token was imported automatically.
-[native] Imported Pixiv refresh token: 9bWt...HmKg
-설정을 저장했습니다.
-설정을 저장했습니다.
-
-[native] Starting Pixiv single-artwork download batch.
-[native] Current native scope: single-page, multi-page, ugoira, and user/category Pixiv targets.
-[native] target: https://www.pixiv.net/artworks/147880339
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\艦娘ロック響 (147880339).jpg
-[native] target: https://www.pixiv.net/artworks/146057302
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響の進水日！2026 (146057302).jpg
-[native] target: https://www.pixiv.net/artworks/139129524
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\C107 1日目東7 T-12a おしながき [139129524]
-[native] target: https://www.pixiv.net/artworks/134501367
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\水着うちの子 (134501367).jpg
-[native] target: https://www.pixiv.net/artworks/133703309
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\水着響 (133703309).jpg
-[native] target: https://www.pixiv.net/artworks/132906307
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\蒸し響 (132906307).jpg
-[native] target: https://www.pixiv.net/artworks/131634293
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\鍋ヴェールヌイ [131634293]
-[native] target: https://www.pixiv.net/artworks/131609492
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響の進水日！ (131609492).jpg
-[native] target: https://www.pixiv.net/artworks/128023211
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\ピース響✌ (128023211).jpg
-[native] target: https://www.pixiv.net/artworks/125724152
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\マフラー響ちゃん (125724152).jpg
-[native] target: https://www.pixiv.net/artworks/125420866
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響ちゃん♡ (125420866).jpg
-[native] target: https://www.pixiv.net/artworks/123853946
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\ハロウィン響2024 (123853946).jpg
-[native] target: https://www.pixiv.net/artworks/123255166
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\あちあちヴェールヌイ (123255166).jpg
-[native] target: https://www.pixiv.net/artworks/119685463
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響の進水日！ (119685463).jpg
-[native] target: https://www.pixiv.net/artworks/114081305
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\ぶら下がる響&ヴェールヌイ [114081305]
-[native] target: https://www.pixiv.net/artworks/109044893
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響ちゃんの進水日2023 (109044893).jpg
-[native] target: https://www.pixiv.net/artworks/102351539
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\ハロウィン響ちゃん (102351539).jpg
-[native] target: https://www.pixiv.net/artworks/100920231
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\濡れ透け水着響ちゃん (100920231).jpg
-[native] target: https://www.pixiv.net/artworks/99089589
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\久しぶり...司令官…♪ (99089589).jpg
-[native] target: https://www.pixiv.net/artworks/94104607
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\首輪イヌミミっ子響ちゃん (94104607).jpg
-[native] target: https://www.pixiv.net/artworks/90656820
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響のもちもちほっぺ (90656820).jpg
-[native] target: https://www.pixiv.net/artworks/90595559
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響ちゃんを姫様抱っこ (90595559).jpg
-[native] target: https://www.pixiv.net/artworks/89203977
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\なーに？司令官 (89203977).jpg
-[native] target: https://www.pixiv.net/artworks/88090534
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響&タシュケントのおしり (88090534).jpg
-[native] target: https://www.pixiv.net/artworks/87644484
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\もにゅっと響っぱい [87644484]
-[native] target: https://www.pixiv.net/artworks/86106026
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響のおくち (86106026).jpg
-[native] target: https://www.pixiv.net/artworks/85364998
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\トリックオアトリート…♪ (85364998).jpg
-[native] target: https://www.pixiv.net/artworks/84944133
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\恥ずかしがり響 [84944133]
-[native] target: https://www.pixiv.net/artworks/84449593
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\司令官…おはよ… (84449593).jpg
-[native] target: https://www.pixiv.net/artworks/84322812
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響のおしり [84322812]
-[native] target: https://www.pixiv.net/artworks/82596382
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\ヴェールヌイ (82596382).jpg
-[native] target: https://www.pixiv.net/artworks/82372305
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\響&Верный進水日！ (82372305).jpg
-[native] target: https://www.pixiv.net/artworks/81607915
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\お着がえヴェールヌイ (81607915).jpg
-[native] target: https://www.pixiv.net/artworks/78859459
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\ワカサギ釣り…？トリオ (78859459).jpg
-[native] target: https://www.pixiv.net/artworks/78421738
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\あの…一緒に…寝ますか？ (78421738).jpg
-[native] target: https://www.pixiv.net/artworks/77954321
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\もふもふむぎゅっと (77954321).jpg
-[native] target: https://www.pixiv.net/artworks/77574639
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\トリックオアトリートだよ…司令官？ (77574639).jpg
-[native] target: https://www.pixiv.net/artworks/77553805
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\ヴェールヌイとハロウィンデート (77553805).jpg
-[native] target: https://www.pixiv.net/artworks/77196587
-[ok] Downloaded 4 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\横から第六駆逐隊！ [77196587]
-[native] target: https://www.pixiv.net/artworks/76990184
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\がんばって！ (76990184).jpg
-[native] target: https://www.pixiv.net/artworks/76503682
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\けもみみパーカー水着 (76503682).jpg
-[native] target: https://www.pixiv.net/artworks/76272200
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\司令官…おはよ… (76272200).jpg
-[native] target: https://www.pixiv.net/artworks/75902913
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\酔いどれヴェールヌイ [75902913]
-[native] target: https://www.pixiv.net/artworks/75254578
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\だーっこ❤ [75254578]
-[native] target: https://www.pixiv.net/artworks/74260362
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\にゃー (74260362).jpg
-[native] target: https://www.pixiv.net/artworks/73403293
-[ok] Downloaded 4 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\ヴェールヌイのおなか [73403293]
-[native] target: https://www.pixiv.net/artworks/73178824
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\どこがロシア風かって？ それは…内緒だ… [73178824]
-[native] target: https://www.pixiv.net/artworks/73104604
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\司令官…ロシア風チョコ…あげる [73104604]
-[native] target: https://www.pixiv.net/artworks/72623920
-[ok] Downloaded 4 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\冬服もこもこ響 [72623920]
-[native] target: https://www.pixiv.net/artworks/71356483
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\ハロウィン響ちゃん (71356483).jpg
-[native] target: https://www.pixiv.net/artworks/71269481
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\いじける暁 (71269481).jpg
-[native] target: https://www.pixiv.net/artworks/70690253
-[ok] Downloaded 4 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\夜の秘め事が見つかってしまったヴェールヌイ [70690253]
-[native] target: https://www.pixiv.net/artworks/70599493
-[ok] Downloaded 3 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\構ってほしい犬響 [70599493]
-[native] target: https://www.pixiv.net/artworks/70491996
-[ok] Downloaded 2 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\横からうちの子 [70491996]
-[native] target: https://www.pixiv.net/artworks/68469075
-[ok] Downloaded: C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\横から第六駆逐隊 (68469075).jpg
-[native] target: https://www.pixiv.net/artworks/68448354
-[ok] Downloaded 4 page(s), skipped 0 existing file(s): C:\Users\inso0\OneDrive\문서\Codex\pixiv_c\downloads\冷燈みかん (@mame646) [4241792]\司令官、呼んだかい？ [68448354]
-[native] Finished. total=56 success=56 failed=0
