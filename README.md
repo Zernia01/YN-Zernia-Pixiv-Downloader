@@ -1,6 +1,6 @@
-# YN ZERNIA PIXIV Downloader 6.3
+# YN ZERNIA PIXIV Downloader 7.1
 
-YN ZERNIA PIXIV 다운로더 6.3을 사용해 주셔서 감사합니다. 이 프로그램의 주요 기능과 사용법, 주의사항을 안내합니다.
+YN ZERNIA PIXIV 다운로더 7.1을 사용해 주셔서 감사합니다. 이 프로그램의 주요 기능과 사용법, 주의사항을 안내합니다.
 
 ## ⚙️ 1. 기능 (Features)
 
@@ -12,6 +12,7 @@ YN ZERNIA PIXIV 다운로더 6.3을 사용해 주셔서 감사합니다. 이 프
 
 * **FFmpeg (움짤/동영상 저장 지원)**
   * 움짤(우고이라)을 정상적으로 저장하기 위해 필요한 구성 요소입니다.
+  * 설정의 움짤 저장 형식에서 `apng`를 선택하면 무한 반복 APNG 파일(`.apng`)로 저장합니다.
   * 처음 사용 시 `winget`을 통해 자동으로 설치하거나, FFmpeg를 수동으로 다운로드하여 설치해 주세요.
 
 * **프로필 페이지 설정 (Profile Page)**
@@ -21,6 +22,9 @@ YN ZERNIA PIXIV 다운로더 6.3을 사용해 주셔서 감사합니다. 이 프
 * **종류 선택 및 동시 다운로드**
   * 메인 화면에서 `일러스트`, `만화`, `소설` 중 원하는 항목만 체크하면 선택한 종류만 다운로드합니다.
   * 동시 다운로드 수는 설정에서 **2~5개**로 지정할 수 있으며 기본값은 3개입니다.
+  * 다운로드 중에는 현재 작품의 첫 이미지 미리보기, 제목, 링크와 전체 진행률(%)을 표시합니다.
+  * 기본 저장 위치는 프로그램 폴더 아래의 `downloads` 폴더입니다.
+  * 여러 장인 작품은 전체 장수에 맞춰 번호 자릿수를 자동 정렬합니다. (예: 9장 `1`, 10장 `01`, 100장 `001`)
   * 소설은 `작가 폴더/소설 제목 [ID]/`에 UTF-8 TXT 본문, 표지, 본문 삽화가 함께 저장됩니다.
 
 * **자동 업데이트**
@@ -47,8 +51,8 @@ YN ZERNIA PIXIV 다운로더 6.3을 사용해 주셔서 감사합니다. 이 프
 
 ## 📦 3. GitHub Release 업데이트 배포
 
-1. GitHub 저장소에서 새 Release를 만들고 태그를 `v6.3.0`처럼 현재 프로그램보다 높은 버전으로 지정합니다.
-2. 빌드한 `YN Zernia Pixiv Downloader 6.3.exe` 파일을 Release asset으로 첨부합니다.
+1. GitHub 저장소에서 새 Release를 만들고 태그를 `v7.1.0`처럼 현재 프로그램보다 높은 버전으로 지정합니다.
+2. 빌드한 `YN Zernia Pixiv Downloader 7.1.exe` 파일을 Release asset으로 첨부합니다.
 3. Draft와 Prerelease가 아닌 정식 Release로 게시합니다.
 4. 사용자 설정의 `GitHub 저장소`에 `OWNER/REPOSITORY`를 입력합니다.
 
@@ -64,9 +68,9 @@ Release에 EXE가 여러 개 있으면 파일명에 `Zernia`와 `Pixiv`가 들�
 
 #EN
 
-# YN ZERNIA PIXIV Downloader 6.3
+# YN ZERNIA PIXIV Downloader 7.1
 
-Thank you for using YN ZERNIA PIXIV Downloader 6.3. Below is a guide to its main features, usage, and precautions.
+Thank you for using YN ZERNIA PIXIV Downloader 7.1. Below is a guide to its main features, usage, and precautions.
 
 ## ⚙️ 1. Features
 
@@ -76,6 +80,7 @@ Thank you for using YN ZERNIA PIXIV Downloader 6.3. Below is a guide to its main
 
 * **FFmpeg (Animation/Ugoira Support)**
   * Required for properly saving animated images (Ugoira).
+  * Select `apng` as the Ugoira format in Settings to save an infinitely looping `.apng` file.
   * Upon first use, it can be installed automatically via `winget`, or you can download and install FFmpeg manually.
 
 * **Profile Page Settings**
@@ -85,6 +90,9 @@ Thank you for using YN ZERNIA PIXIV Downloader 6.3. Below is a guide to its main
 * **Type Filters and Parallel Downloads**
   * Select `Illustrations`, `Manga`, and/or `Novels` on the main screen; only checked types are downloaded.
   * Configure **2–5** simultaneous downloads in Settings; the default is 3.
+  * While downloading, the app shows the current artwork's first-image preview, title, link, and overall progress percentage.
+  * Downloads are saved to the `downloads` folder under the application directory by default.
+  * Multi-page numbering automatically matches the total page count (for example: `1`, `01`, or `001`).
   * Each novel is saved in its own folder with a UTF-8 TXT file, cover, and embedded images.
 
 * **Automatic Updates**
@@ -111,8 +119,8 @@ Thank you for using YN ZERNIA PIXIV Downloader 6.3. Below is a guide to its main
 
 ## 📦 3. Publishing Updates with GitHub Releases
 
-1. Create a GitHub Release with a version tag newer than the app, such as `v6.3.0`.
-2. Attach the built `YN Zernia Pixiv Downloader 6.3.exe` as a Release asset.
+1. Create a GitHub Release with a version tag newer than the app, such as `v7.1.0`.
+2. Attach the built `YN Zernia Pixiv Downloader 7.1.exe` as a Release asset.
 3. Publish it as a regular Release, not a draft or prerelease.
 4. Enter `OWNER/REPOSITORY` in the app's GitHub Repository setting.
 
