@@ -1,7 +1,8 @@
 # YN ZERNIA PIXIV Downloader 7.2
 
 YN ZERNIA PIXIV 다운로더 7.2를 사용해 주셔서 감사합니다. 이 프로그램의 주요 기능과 사용법, 주의사항을 안내합니다.
-
+## AI 사용
+* 본 프로그램은 AI를 사용하였습니다.
 ## ⚙️ 1. 기능 (Features)
 
 * 먼저 설정을 드가주세요!
@@ -66,11 +67,14 @@ Release에 EXE가 여러 개 있으면 파일명에 `Zernia`와 `Pixiv`가 들�
 * 픽시브 서버의 일시적인 **과부하** 문제
 * 삭제되었거나 접근할 수 없는 **오래된 페이지**를 다운로드하려고 시도한 경우
 
-#EN
+# EN
 
 # YN ZERNIA PIXIV Downloader 7.2
 
 Thank you for using YN ZERNIA PIXIV Downloader 7.2. Below is a guide to its main features, usage, and precautions.
+
+## Use of AI
+* This program uses AI.
 
 ## ⚙️ 1. Features
 
