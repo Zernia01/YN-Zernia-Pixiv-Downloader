@@ -1,6 +1,6 @@
-# YN ZERNIA PIXIV Downloader 7.2
+# YN ZERNIA PIXIV Downloader 8.1
 
-YN ZERNIA PIXIV 다운로더 7.2를 사용해 주셔서 감사합니다. 이 프로그램의 주요 기능과 사용법, 주의사항을 안내합니다.
+YN ZERNIA PIXIV 다운로더 8.1를 사용해 주셔서 감사합니다. 이 프로그램의 주요 기능과 사용법, 주의사항을 안내합니다.
 ## AI 사용
 * 본 프로그램은 AI를 사용하였습니다.
 ## ⚙️ 1. 기능 (Features)
@@ -69,9 +69,9 @@ Release에 EXE가 여러 개 있으면 파일명에 `Zernia`와 `Pixiv`가 들�
 
 # EN
 
-# YN ZERNIA PIXIV Downloader 7.2
+# YN ZERNIA PIXIV Downloader 8.1
 
-Thank you for using YN ZERNIA PIXIV Downloader 7.2. Below is a guide to its main features, usage, and precautions.
+Thank you for using YN ZERNIA PIXIV Downloader 8.1. Below is a guide to its main features, usage, and precautions.
 
 ## Use of AI
 * This program uses AI.
