@@ -1,6 +1,6 @@
-# YN ZERNIA PIXIV Downloader 8.1
+# YN ZERNIA PIXIV Downloader 8.4
 
-YN ZERNIA PIXIV 다운로더 8.1를 사용해 주셔서 감사합니다. 이 프로그램의 주요 기능과 사용법, 주의사항을 안내합니다.
+YN ZERNIA PIXIV 다운로더 8.4를 사용해 주셔서 감사합니다. 이 프로그램의 주요 기능과 사용법, 주의사항을 안내합니다.
 ## AI 사용
 * 본 프로그램은 AI를 사용하였습니다.
 ## ⚙️ 1. 기능 (Features)
@@ -52,8 +52,8 @@ YN ZERNIA PIXIV 다운로더 8.1를 사용해 주셔서 감사합니다. 이 프
 
 ## 📦 3. GitHub Release 업데이트 배포
 
-1. GitHub 저장소에서 새 Release를 만들고 태그를 `v7.2.0`처럼 현재 프로그램보다 높은 버전으로 지정합니다.
-2. 빌드한 `YN Zernia Pixiv Downloader 7.2.exe` 파일을 Release asset으로 첨부합니다.
+1. GitHub 저장소에서 새 Release를 만들고 태그를 `v8.4.0`보다 높은 버전으로 지정합니다.
+2. 빌드한 `YN Zernia Pixiv Downloader 8.4.exe` 파일을 Release asset으로 첨부합니다.
 3. Draft와 Prerelease가 아닌 정식 Release로 게시합니다.
 4. 사용자 설정의 `GitHub 저장소`에 `OWNER/REPOSITORY`를 입력합니다.
 
@@ -69,9 +69,9 @@ Release에 EXE가 여러 개 있으면 파일명에 `Zernia`와 `Pixiv`가 들�
 
 # EN
 
-# YN ZERNIA PIXIV Downloader 8.1
+# YN ZERNIA PIXIV Downloader 8.4
 
-Thank you for using YN ZERNIA PIXIV Downloader 8.1. Below is a guide to its main features, usage, and precautions.
+Thank you for using YN ZERNIA PIXIV Downloader 8.4. Below is a guide to its main features, usage, and precautions.
 
 ## Use of AI
 * This program uses AI.
@@ -123,8 +123,8 @@ Thank you for using YN ZERNIA PIXIV Downloader 8.1. Below is a guide to its main
 
 ## 📦 3. Publishing Updates with GitHub Releases
 
-1. Create a GitHub Release with a version tag newer than the app, such as `v7.2.0`.
-2. Attach the built `YN Zernia Pixiv Downloader 7.2.exe` as a Release asset.
+1. Create a GitHub Release with a version tag newer than the app, such as `v8.4.0`.
+2. Attach the built `YN Zernia Pixiv Downloader 8.4.exe` as a Release asset.
 3. Publish it as a regular Release, not a draft or prerelease.
 4. Enter `OWNER/REPOSITORY` in the app's GitHub Repository setting.
 
